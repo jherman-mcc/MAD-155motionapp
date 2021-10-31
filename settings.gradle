@@ -1,0 +1,2 @@
+rootProject.name = "motionapp"
+include ':app'
